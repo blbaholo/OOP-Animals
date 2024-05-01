@@ -1,0 +1,10 @@
+*
+
+!README.md
+!requirements.txt
+!setup.py
+!tests
+!tests/test_animals.py
+!animals_dir
+!animals_dir/animals.py
+!.gitignore
